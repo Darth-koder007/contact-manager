@@ -1,3 +1,9 @@
+# node modules directory
 node_modules
+
 .idea
+
+# Bundles
+*bundle.js*
+
 .DS_STORE
