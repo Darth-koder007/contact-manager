@@ -1,2 +1,2 @@
 # contact-manager 
-aurelia contact manager basic app
+aurelia contact manager basic app  
